@@ -1,3 +1,6 @@
+
+
+
 message = input("Enter your message: ")
 shift = int(input("Enter the shift (code): "))
 print("Choose an option:")
