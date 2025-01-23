@@ -1,5 +1,3 @@
-
-
 input_number = int(input("Enter a positive number: "))
 if input_number <= 0:
     print("Error: Invalid input. Please enter a positive number.")
