@@ -1,0 +1,5 @@
+a=input('enter the numbers(separete using commas):').split(',')
+a=list(map(int,a))
+print('elements are:',a)
+b=sorted(a,reverse=True)
+print(b[2],"third largest number")
